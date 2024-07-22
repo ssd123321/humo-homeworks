@@ -3,6 +3,7 @@ package main
 import "fmt"
 
 func main() {
+	// Classwork
 	var x int
 	y := &x
 	*y = 42
