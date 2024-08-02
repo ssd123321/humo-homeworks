@@ -109,11 +109,7 @@ func main() {
 	// 32
 	ThreeNodes()
 	// 33
-	s5 := &Node{36, nil}
-	s4 := &Node{35, s5}
-	s3 := &Node{34, s4}
-	s2 := &Node{33, s3}
-	s1 := &Node{32, s2}
+	s1 := &Node{36, nil}
 	GetAllValues(s1)
 	// 34
 	AddNode(s1)
