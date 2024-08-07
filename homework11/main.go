@@ -3,5 +3,5 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println(CheckPrefixAndSuffix("Hello", "H", "e"))
+	fmt.Println(ReverseWords("s,fwefwf,fwef, wfwfw"))
 }
